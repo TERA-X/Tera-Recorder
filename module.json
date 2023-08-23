@@ -8,5 +8,5 @@
         "guiName": "Tera Recorder",
         "reloadable": false
     },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-recorder/master/"]
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/Tera-Recorder/master/"]
 }
